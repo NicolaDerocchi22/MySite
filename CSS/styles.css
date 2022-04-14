@@ -148,8 +148,13 @@ p {
     text-decoration: none;
 }
 
+.footer-link:hover {
+    color: #eee8e1;
+}
+
 .copyright {
     color: #e9d7be;
+    font-size: x-small;
 }
 
 .bio {
