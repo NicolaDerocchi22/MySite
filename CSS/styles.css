@@ -21,6 +21,7 @@ h2 {
     color: #574731;
     font-weight: lighter;
     font-size: 2rem;
+    padding-bottom: 0.8rem;
 }
 
 h3 {
@@ -47,11 +48,13 @@ hr {
     size: 3rem;
     width: 5%;
     opacity: 50%;
+    margin: 4rem auto;
 }
 
 p {
     font-size: 1rem;
     font-family: 'Montserrat', sans-ser;
+    line-height: 1.5;
 }
 
 
@@ -66,11 +69,12 @@ p {
 
 .middle-container {
     background-color: #ede5da;
+    margin-top: 3rem;
 }
 
 .bottom-container {
     background-color: #574731;
-    margin-top: 1rem;
+    margin-top: 2rem;
     padding: 1rem;
 }
 
@@ -94,7 +98,6 @@ p {
     width: 50%;
     margin: 6.25rem auto 6.25rem auto;
     text-align: left;
-    line-height: 1.5;
 }
 
 .img2 {
@@ -147,6 +150,16 @@ p {
 
 .copyright {
     color: #e9d7be;
+}
+
+.bio {
+    width: 30%;
+    margin: auto;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 2rem auto;
 }
 
 
